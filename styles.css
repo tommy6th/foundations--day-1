@@ -1,0 +1,15 @@
+.larger-text {
+  font-size: 20px;
+  color: rgb(10, 50, 100);
+}
+.red {
+  color: red;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.remove-underline {
+  text-decoration: none;
+}
